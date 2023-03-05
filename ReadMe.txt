@@ -1,0 +1,3 @@
+I am starting this assignment, and it took a little while to get warcio from the benchmark/go.py as I needed to install pycharm. I had different software to work on python with.
+
+I do not believe I can get far in the project, as I have no idea what I am doing. I am still a Sophomore in college so I have not had experience working with software that gets information from online, but I will try my best. 
